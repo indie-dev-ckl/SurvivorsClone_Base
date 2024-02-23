@@ -1,9 +1,8 @@
-res://Actors/Player/player.tscn
-res://Actors/Player/player.gd
+res://Utility/enemy_spawner.tscn
+res://Utility/EnemySpawner.gd
+res://Utility/spawn_info.gd
 res://World/world.tscn
+res://Actors/Player/player.tscn
 res://Actors/Enemy/enemy.tscn
-res://Actors/Enemy/enemy.gd
 res://Utility/hit_box.tscn
-res://Utility/hit_box.gd
 res://Utility/hurt_box.tscn
-res://Utility/hurt_box.gd
